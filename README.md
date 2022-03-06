@@ -7,7 +7,15 @@
 #### Vagas: 3 + Cadastro de reserva.
 
 ##### Inscrição: 10/01/2022 à 21/02/2022
-##### Isenção: 10/01/2022 à 12/01/2022 - Isento = Não
+##### Isenção: 10/01/2022 à 12/01/2022 
+##### Isento:
+* [ ] Não 
+* [ ] Sim
+##### Locais de Prova - 25/04/2022.
+##### Prova - 01/05/2022.
+##### Gabarito Preliminar - 03/05/2022.
+##### Resultado Preliminar - 23/06/2022.
+##### Resultado Final - 27/06/2022.
 
 ###### 
 
