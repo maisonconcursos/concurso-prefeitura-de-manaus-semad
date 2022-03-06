@@ -2,7 +2,7 @@
 
 ## Cargo: ES-ANALISTA DE DESENVOLVIMENTO DE SISTEMAS.
 
-### Remuneração: R$ 8313,61.
+### Remuneração: R$ 8.313,61.
 
 #### Vagas: 3 + Cadastro de reserva.
 
