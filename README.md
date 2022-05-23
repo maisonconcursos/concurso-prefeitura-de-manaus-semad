@@ -40,6 +40,19 @@ LÍNGUA PORTUGUESA
 * [x] Acentuação gráfica. 
 -----------------------------------------------------------------------------------------------------------------------------
 
+RACIOCÍNIO LÓGICO-MATEMÁTICO 
+* [ ] Proposições, conectivos, equivalências lógicas, quantificadores e predicados.
+* [ ] Conjuntos e suas operações, diagramas. 
+* [ ] Números inteiros, racionais e reais e suas operações, porcentagem.
+* [ ] Proporcionalidade direta e inversa.
+* [ ] Medidas de comprimento, área, volume, massa e tempo.
+* [ ] Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; dedução de novas informações das relações fornecidas e avaliação das condições usadas para estabelecer a estrutura daquelas relações.
+* [ ] Compreensão e análise da lógica de uma situação, utilizando as funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio sequencial, reconhecimento de padrões, orientação espacial e temporal, formação de conceitos, discriminação de elementos Compreensão de dados apresentados em 
+gráficos e tabelas.
+* [ ] Problemas de lógica e raciocínio.
+* [ ] Problemas de contagem e noções de probabilidade.
+* [ ] Geometria básica: ângulos, triângulos, polígonos, distâncias, proporcionalidade, perímetro e área.
+* [ ] Noções de estatística: média, moda, mediana e desvio padrão.
 * [ ] Redes de computadores: Conceitos de comunicação de dados, redes sem fio.
 * [ ] Modelo OSI.
 * [ ] Protocolo TCP/IP versões 4 e 6.
@@ -66,3 +79,4 @@ LÍNGUA PORTUGUESA
 * [ ] Características das linguagens imperativas e funcionais, estruturadas, orientadas a objetos e de script.
 * [ ] Arquitetura de sistemas: Cliente/servidor, multicamadas.
 * [ ] Padrões de projetos (design patterns).
+-----------------------------------------------------------------------------------------------------------------------------------
