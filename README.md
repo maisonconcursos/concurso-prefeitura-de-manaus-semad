@@ -111,6 +111,53 @@ de tela.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+LEGISLAÇÃO 
+* [ ] Sistema Único de Saúde (SUS): princípios, diretrizes, estrutura e organização; políticas de saúde.
+* [ ] Estrutura e funcionamento das instituições e suas relações com os serviços de saúde.
+* [ ] Níveis progressivos de assistência à saúde. 
+* [ ] Políticas públicas do SUS para gestão de recursos físicos, financeiros, materiais e humanos.
+* [ ] Sistema de planejamento do SUS: estratégico e normativo.
+* [ ] Direitos dos usuários do SUS: participação e controle social.
+* [ ]  Ações e programas do SUS.
+* [ ] Legislação básica do SUS.
+* [ ] Política Nacional de Humanização.
+* [ ] Constituição Federal de 1988 - Título VIII – artigo 194 a 200.
+* [ ] Lei nº 8.142/90 (dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e 
+sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências).
+* [ ] Lei nº 8.080/90 (dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o 
+funcionamento dos serviços correspondentes e dá outras providências).
+* [ ] RDC nº 63, de 25 de novembro de 2011 (dispõe sobre os requisitos de boas práticas de funcionamento para os Serviços de Saúde).
+* [ ] Resolução CNS nº 553/2017 (dispõe sobre a carta dos direitos e deveres da pessoa usuária da saúde).
+* [ ] RDC nº 36, de 25 de julho de 2013 (institui ações para a segurança do paciente em serviços de saúde e dá outras providências).
+* [ ] Organização do Sistema de Saúde do Estado do Amazonas: metas, programas e ações em saúde.
+* [ ] CÓDIGO DE ÉTICA PROFISSIONAL.
+* [ ] ESTATUTO DO SERVIDOR PÚBLICO MUNICIPAL (Lei Municipal nº 1.118/1971).
+* [ ] LEI ORGÂNICA DO MUNICÍPIO DE MANAUS.
+* [ ] DIREITO CONSTITUCIONAL.
+* [ ] Fundamentos constitucionais dos direitos e deveres fundamentais: direitos e deveres individuais e 
+coletivos.
+* [ ] Direito à vida, à liberdade, à igualdade, à segurança e à propriedade.
+* [ ] Direitos sociais; nacionalidade; cidadania e direitos políticos.
+* [ ] Garantias constitucionais individuais.
+* [ ] Garantias dos direitos coletivos, sociais e políticos.
+* [ ] Poder Executivo: forma e sistema de governo.
+* [ ] Chefia de Estado e Chefia de governo.
+* [ ] Ordem Social.
+* [ ] Seguridade Social. 
+* [ ] Saúde, Educação, cultura e desporto.
+* [ ] Ciência e tecnologia.
+* [ ] Comunicação Social.
+* [ ] Meio ambiente. Família, criança, adolescente, jovem e idoso.
+* [ ] DIREITO ADMINISTRATIVO.
+* [ ] Agentes Públicos: Conceito; Espécies; Concurso; Processo Seletivo; Cargo, emprego e função pública; Provimento; Vacância; Efetividade; Estabilidade; Remuneração; 
+Sindicância; Processo administrativo disciplinar; Acumulação de cargos.
+* [ ] Lei Municipal n° 1.425, de março de 2010, e suas alterações; Decreto nº 544, de 6 de maio de 2010; Lei nº 1.222, de 26 de março de 2008, e suas alterações; Lei 
+nº 1.223, de 26 de março de 2008, e suas alterações; Decreto nº 1.442, de 30 de janeiro de 2012; Decreto nº 1977, de 16 de outubro de 2012; Responsabilidade civil, criminal e administrativa. Poderes administrativos: poder vinculado; poder discricionário; poder hierárquico; poder disciplinar; poder regulamentar; poder de polícia; uso e abuso de poder.
+* [ ] Ato administrativo: conceito; requisitos, perfeição, validade, eficácia; atributos; extinção, desfazimento e 
+sanatória; classificação, espécies e exteriorização; vinculação e discricionariedade.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 * [ ] Redes de computadores: Conceitos de comunicação de dados, redes sem fio.
 * [ ] Modelo OSI.
 * [ ] Protocolo TCP/IP versões 4 e 6.
