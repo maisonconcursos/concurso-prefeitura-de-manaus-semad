@@ -19,6 +19,27 @@
 
 ###### 
 
+LÍNGUA PORTUGUESA 
+
+* [ ] Leitura, compreensão e interpretação de textos.
+* [ ] Estruturação do texto e dos parágrafos.
+* [ ] Articulação do texto: pronomes e expressões referenciais, nexos, operadores sequenciais.
+* [ ] Significação contextual de palavras e expressões. 
+* [ ] Equivalência e transformação de estruturas.
+* [ ] Sintaxe: processos de coordenação e subordinação.
+* [ ] Emprego de tempos e modos verbais.
+* [ ] Pontuação.
+* [ ] Estrutura e formação de palavras.
+* [ ] Funções das classes de palavras.
+* [ ] Flexão nominal e verbal.
+* [ ] Pronomes: emprego, formas de tratamento e colocação.
+* [ ] Concordância nominal e verbal.
+* [ ] Regência nominal e verbal.
+* [ ] Ocorrência de crase.
+* [ ] Ortografia oficial.
+* [x] Acentuação gráfica. 
+-----------------------------------------------------------------------------------------------------------------------------
+
 * [ ] Redes de computadores: Conceitos de comunicação de dados, redes sem fio.
 * [ ] Modelo OSI.
 * [ ] Protocolo TCP/IP versões 4 e 6.
