@@ -56,58 +56,15 @@ gráficos e tabelas.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-INFORMÁTICA BÁSICA
-* [ ] Ambiente operacional Windows (XP/7/10).
-* [ ] Fundamentos do Windows, operações com janelas, menus, barra de tarefas, área de trabalho, trabalho com pastas e arquivos, localização de arquivos e pastas, movimentação e cópia de arquivos e pastas e criação e exclusão de arquivos e pastas, compartilhamentos e áreas de transferência.
-* [ ] Configurações básicas do Windows: resolução da tela, cores, fontes, impressoras, aparência, segundo plano e protetor 
-de tela.
-* [ ] Windows Explorer.
-* [ ] Ambiente Intranet e Internet.
-* [ ] Conceito básico de internet e intranet e utilização de tecnologias, ferramentas e aplicativos associados à internet.
-* [ ] Principais navegadores.
-* [ ] Ferramentas de busca e pesquisa.
-* [ ] Processador de Textos.
-* [ ] MS Office/2007/2010/2013 – Word e LibreOffice Writer.
-* [ ] Conceitos básicos.
-* [ ] Criação de documentos.
-* [ ] Abrir e Salvar documentos.
-* [ ] Digitação.
-* [ ] Edição de textos.
-* [ ] Estilos.
-* [ ] Formatação.
-* [ ] Tabelas e tabulações.
-* [ ] Cabeçalho e rodapés.
-* [ ] Configuração de página.
-* [ ] Corretor ortográfico.
-* [ ] Impressão.
-* [ ] Ícones.
-* [ ] Atalhos de teclado.
-* [ ] Uso dos recursos.
-* [ ] Planilha Eletrônica.
-* [ ] MS Office/2007/2010/2013 – Excel e LibreOffice Calc.
-* [ ] Conceitos básicos.
-* [ ] Criação de documentos.
-* [ ] Abrir e Salvar documentos.
-* [ ] Estilos.
-* [ ] Formatação.
-* [ ] Fórmulas e funções.
-* [ ] Gráficos.
-* [ ] Corretor ortográfico.Impressão.
-* [ ] Ícones.
-* [ ] Atalhos de teclado.
-* [ ] Uso dos recursos.
-* [ ] Correio Eletrônico.
-* [ ] Conceitos básicos.
-* [ ] Formatos de mensagens.
-* [ ] Transmissão e recepção de mensagens.
-* [ ] Catálogo de endereços.
-* [ ] Arquivos Anexados.
-* [ ] Uso dos recursos. 
-* [ ] Ícones.
-* [ ]  Atalhos de teclado.
-* [ ]  Segurança da Informação.
-* [ ]  Cuidados relativos à segurança e sistemas antivírus.
-* [ ]  Noções de vírus, Worms e pragas virtuais.
+ATUALIDADES
+* [ ] Meio ambiente e sociedade: problemas, políticas públicas, organizações não governamentais, aspectos locais e 
+aspectos globais.
+* [ ] Descobertas e inovações científicas na atualidade e seus impactos na sociedade contemporânea. 
+* [ ] Mundo Contemporâneo: elementos de política internacional e brasileira; cultura internacional e cultura brasileira 
+(música, literatura, artes, arquitetura, rádio, cinema, teatro, jornais, revistas e televisão); elementos de economia 
+internacional contemporânea; panorama da economia brasileira.
+* [ ] Ética e cidadania.
+* [ ] Relações humanas no trabalho.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
