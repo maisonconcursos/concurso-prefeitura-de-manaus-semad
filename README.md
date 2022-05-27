@@ -14,7 +14,8 @@
 ##### Locais de Prova - 25/04/2022.
 ##### Prova - 1º de maio de 2022, das 14h às 18h.
 ##### Gabarito Preliminar - 03/05/2022.
-##### Resultado Preliminar - 23/06/2022.
+##### Resultado Preliminar - 01/06/2022.
+##### Resultado Definitivo da Prova Objetiva - 27/06/2022.
 ##### Resultado Final - 27/06/2022.
 
 ###### 
