@@ -17,7 +17,42 @@
 ##### Resultado Definitivo da Prova Objetiva - 27/06/2022.
 ##### Resultado Final - 27/06/2022.
 
-###### 
+###### Condições de Aprovação
+> Será considerado aprovado na Prova Escrita Objetiva, para os cargos de Nível Superior –
+Especialista em Saúde, exceto para o cargo de Nível Superior – Especialista em Saúde – Advogado,
+o candidato que, cumulativamente:
+* a) acertar, no mínimo, 30 (trinta) questões do total da prova; Acertei 37
+* b) acertar, no mínimo, 16 (dezesseis) questões do Módulo I; Acertei 20
+* c) acertar, no mínimo, 12 (doze) questões do Módulo II.  Acertei 17
+
+###### Meu desempenho
+Disciplina/área de conhecimento: Língua Portuguesa
+Nota: 0,7
+Número de acertos: 7
+
+Disciplina/área de conhecimento: Raciocínio Lógico-Matemático
+Nota: 0,4
+Número de acertos: 4
+
+Disciplina/área de conhecimento: Atualidades
+Nota: 0,4
+Número de acertos: 4
+
+Disciplina/área de conhecimento: Legislação
+Nota: 0,5
+Número de acertos: 5
+
+Disciplina/área de conhecimento: Conhecimentos Específicos
+Nota: 3,4
+Número de acertos: 17
+
+Situação: Aprovado
+
+Nota na prova objetiva: 5,4
+
+Total de acertos: 37
+
+#### Conteúdo programático
 
 LÍNGUA PORTUGUESA 
 
