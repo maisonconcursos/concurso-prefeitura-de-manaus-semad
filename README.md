@@ -2,12 +2,10 @@
 
 ## Banca: FGV
 ## [Cargo: ES-ANALISTA DE DESENVOLVIMENTO DE SISTEMAS.](https://conhecimento.fgv.br/concursos/semad22/002)
-
 ### Remuneração: R$ 8.313,61.
-
 #### Vagas: 3 + Cadastro de reserva.
 
-##### Inscrição: 10/01/2022 à 21/02/2022
+##### Inscrição: 10/01/2022 à 21/02/2022 - R$ 150,00
 ##### Isenção: 10/01/2022 à 12/01/2022 
 ##### Isento:
 * [ ] Não 
